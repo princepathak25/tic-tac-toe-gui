@@ -53,5 +53,5 @@ tic-tac-toe-gui-prince
 ## Author
 
 **Prince Pathak**  
-🔗 [GitHub](https://github.com/princepathak25)
+
 

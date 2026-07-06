@@ -1,4 +1,7 @@
-# Tic Tac Toe GUI – by Prince Pathak
+# Tic Tac Toe GUI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 Designed **Tic Tac Toe game** with a modern GUI using **Tkinter** in Python.  
 Play as ❌ or ⭕, reset anytime, and enjoy a super-smooth interface with a clean layout and vibrant styling.

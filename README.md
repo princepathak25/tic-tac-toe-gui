@@ -11,18 +11,12 @@ Play as ❌ or ⭕, reset anytime, and enjoy a super-smooth interface with a cle
 - Aesthetic UI with emojis and colored buttons
 - Smart winner and draw detection
 - One-click game reset
-- Built with beginner-friendly clean Python + Tkinter
 
 ---
 
-## How to Run
-
-```bash
-python tic-tac-toe-gui.py
-```
-
-Requires **Python 3.x**  
-No external modules required.
+## Tech Stack
+ - Python
+ - Tkinter
 
 ---
 
@@ -40,18 +34,35 @@ No external modules required.
 
 ---
 
+## How to Run
+
+```bash
+python tic-tac-toe-gui.py
+```
+
+Requires **Python 3.x**  
+No external modules required.
+
+---
+
+
 ## Project Structure
 
 ```
-tic-tac-toe-gui-prince
+tic-tac-toe-gui
  ┣ tic-tac-toe-gui.py
  ┗ README.md
 ```
 
 ---
 
+## Connect with Me
+
+- **GitHub:** https://github.com/princepathak25
+- **LinkedIn:** https://www.linkedin.com/in/prince-pathak-142651373
+
+---
+
 ## Author
 
 **Prince Pathak**  
-
-

@@ -57,13 +57,13 @@ def reset_game():
         for j in range(3):
             buttons[i][j].config(text="", state="normal")
 
-# GUI Setup
+# gui setup
 root = tk.Tk()
 root.title("Tic Tac Toe - Prince Edition 🎮")
 root.config(bg=BG_COLOR)
 root.geometry("400x500")
 
-# Status label
+# status label
 status_label = tk.Label(root, text=f"{current_player}'s Turn", font=("Segoe UI", 20), bg=BG_COLOR, fg="white")
 status_label.pack(pady=20)
 
@@ -81,12 +81,10 @@ for i in range(3):
         btn.grid(row=i, column=j, padx=5, pady=5)
         buttons[i][j] = btn
 
-# reset Button
+# reset button
 reset_btn = tk.Button(root, text="🔄 Reset Game", font=("Segoe UI", 14),
                       command=reset_game, bg="#f44336", fg="white")
 reset_btn.pack(pady=20)
 
-# Run the app
+#run
 root.mainloop()
-# End of the game
-# Enjoy playing Tic Tac Toe! 

@@ -6,7 +6,7 @@
 Designed **Tic Tac Toe game** with a modern GUI.
 Play as ❌ or ⭕, reset anytime, and enjoy a super-smooth interface with a clean layout and vibrant styling.
 
-Play, have fun, repeat !
+Play, enjoy, repeat !
 
 ---
 

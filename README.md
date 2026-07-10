@@ -46,7 +46,6 @@ python tic-tac-toe-gui.py
 ```
 
 Requires **Python 3.x**  
-No external modules required.
 
 ---
 

@@ -3,15 +3,17 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-Designed **Tic Tac Toe game** with a modern GUI using **Tkinter** in Python.  
+Designed **Tic Tac Toe game** with a modern GUI.
 Play as ❌ or ⭕, reset anytime, and enjoy a super-smooth interface with a clean layout and vibrant styling.
+
+Play, have fun, repeat !
 
 ---
 
 ## Features
 
 - Two-player local gameplay (X vs O)
-- Aesthetic UI with emojis and colored buttons
+- Interactive UI designed
 - Smart winner and draw detection
 - One-click game reset
 
